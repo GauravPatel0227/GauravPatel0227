@@ -1,11 +1,11 @@
-<!--
+
 ╔══════════════════════════════════════════════════════════════════╗
 ║           GITHUB PROFILE README — GAURAV PATEL                  ║
 ║           Front-End Developer | AI & ML Enthusiast              ║
 ║                                                                  ║
 ║   CUSTOMIZE: Search for "YOUR_" prefix to find all placeholders ║
 ╚══════════════════════════════════════════════════════════════════╝
--->
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                        HERO SECTION                           -->
