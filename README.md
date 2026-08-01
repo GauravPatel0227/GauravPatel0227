@@ -1,1 +1,149 @@
-# 💫 About Me: I am a passionate Front-End Developer with experience in designing and developing responsive web applications. I focus on clean code, performance optimization, and problem-solving.Along with web development, I am actively learning Artificial Intelligence and Machine Learning to stay updated with modern technology trends. I enjoy exploring new tools, frameworks, and real-world use cases.I am seeking opportunities to work in a challenging environment where I can apply my skills, learn continuously, and contribute to innovative solutions ## 🌐 Socials: [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/thegauravpatel?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thegauravpatel/profilecard/?igsh=MXkyMnVsZ2xpaGhhcg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vidrav-patel-2a027b320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/GauravPatel227) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@vidravpatel?si=5Vq0-y-J82mM0T5y) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Gauravpatel2500@gmail.com ) # 💻 Tech Stack: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF713) # 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Gauravpatel0227&theme=nord&hide_border=false&include_all_commits=true&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Gauravpatel0227&theme=nord&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravpatel0227&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact) ## 🏆 GitHub Trophies ![](https://github-profile-trophy.vercel.app/?username=Gauravpatel0227&theme=default&no-frame=false&no-bg=false&margin-w=4) ### 🔝 Top Contributed Repo ![](https://github-contributor-stats.vercel.app/api?username=Gauravpatel0227&limit=5&theme=dark&combine_all_yearly_contributions=true) --- [![](https://visitcount.itsvg.in/api?id=Gauravpatel0227&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">Hi 👋, I'm Gaurav Patel</h1>
+<h3 align="center">Front-End Developer | AI & ML Enthusiast</h3>
+
+<p align="center">
+Passionate about building responsive web applications, writing clean code, and exploring Artificial Intelligence & Machine Learning.
+</p>
+
+---
+
+# 💫 About Me
+
+I am a passionate **Front-End Developer** with experience in designing and developing responsive web applications. I focus on **clean code**, **performance optimization**, and **problem-solving**.
+
+Along with web development, I am actively learning **Artificial Intelligence** and **Machine Learning** to stay updated with modern technology trends. I enjoy exploring new tools, frameworks, and real-world use cases.
+
+I am seeking opportunities to work in a challenging environment where I can apply my skills, learn continuously, and contribute to innovative solutions.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.facebook.com/thegauravpatel" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/thegauravpatel" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vidrav-patel-2a027b320" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/GauravPatel227" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@vidravpatel" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:Gauravpatel2500@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+
+---
+
+## 🌐 Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+
+---
+
+## 🤖 AI & Data Science
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=plastic&logo=matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white)
+
+---
+
+## 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=plastic&logo=framer&logoColor=blue)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GauravPatel0227&theme=nord&hide_border=false&include_all_commits=true&count_private=false"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=GauravPatel0227&theme=nord&hide_border=false"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPatel0227&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GauravPatel0227&theme=default&no-frame=false&no-bg=false&margin-w=4"/>
+
+</p>
+
+---
+
+# 🔝 Top Contributed Repositories
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=GauravPatel0227&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=GauravPatel0227&icon=0&color=0"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my GitHub Profile! ⭐
+</p>
